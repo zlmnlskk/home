@@ -1,37 +1,18 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "1Panel",
+    "link": "http://192.168.188.10:10086/entrance"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "Alist",
+    "link": "http://192.168.188.10:5244"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "影视",
+    "link": "http://mnls.serv00.net/"
   }
+
 ]
